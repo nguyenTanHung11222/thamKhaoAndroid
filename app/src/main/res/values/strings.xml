@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="DanhSachSanPham">
+        <item>X30-Monster-004</item>
+        <item>X30-Orange-004</item>
+        <item>X30-Red-004</item>
+   </string-array>
+</resources>
